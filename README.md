@@ -31,3 +31,6 @@ public struct Credentials {
 
 5. Open the project in Xcode
 6. Voila!
+
+
+For more details see my blog [here](http://sanjeevghimire.com/create-home-search-chatbot-using-swift-watson-services/)
